@@ -9,6 +9,10 @@ Xaizerp20/Xaizerp20 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 Languages 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="">
+<div style="width: 30px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png" alt="">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="">
+</div>
+
 
 
