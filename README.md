@@ -8,8 +8,8 @@
 Xaizerp20/Xaizerp20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3>LANGUAGS</h3>
-;
+<h3>LANGUAGES</h3>
+
 <div>
     <img style="width: 30px; height: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png" alt="">
     <img style="width: 30px; height: 30px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="">
