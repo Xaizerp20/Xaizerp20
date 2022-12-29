@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
  <h3>TECHNOLOGIES</h3>
 
 <div>
-    <img style="width: 35px; height: 35px;" src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" alt="">
+    <img style="display: inline;" src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" alt="">
       <img style="width: 50px; height: 35px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="">
     <img style="width: 35px; height: 35px;" src="https://nodered.org/about/resources/media/node-red-icon-2.png" alt="">
     <img style="width: 35px; height: 35px;" src="https://user-images.githubusercontent.com/115896072/207922156-e6bd8386-15b1-4633-b78b-1a928494ee62.png" alt="">
