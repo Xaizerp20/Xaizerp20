@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 <div>
     <img style="width: 30px; height: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png" alt="">
     <img style="width: 30px; height: 30px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="">
+    <img style="width: 60px; height: 60px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="">
 </div>
 
  <h3>TECHNOLOGIES</h3>
