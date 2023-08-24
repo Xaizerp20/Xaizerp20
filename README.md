@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xavier Jiménez</h1>
-<h3 align="center">A passionate Backend Developer and Mechatronics Technologist</h3>
+<h3 align="center">A passionate Mechatronics Technologist and Software Developer </h3>
 
 - 🌱 I’m currently learning **ASP.NET, REACT JS, Machine Learning**
 
