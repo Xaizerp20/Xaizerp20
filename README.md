@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ASP.NET, ANGULAR, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Xaizerp20](https://github.com/Xaizerp20)
+- 👨‍💻 All of my projects are available at https://github.com/Xaizerp20?tab=repositories
 
 - 🎥 I regularly upload videos on [https://www.youtube.com/@TicTacCodeTech](https://www.youtube.com/@TicTacCodeTech)
 
