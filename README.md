@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xavier Jiménez</h1>
 <h3 align="center">A passionate Mechatronics Technologist and Software Developer </h3>
 
-- 🌱 I’m currently learning **ASP.NET, REACT JS, Machine Learning**
+- 🌱 I’m currently learning **ASP.NET, ANGULAR, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Xaizerp20](https://github.com/Xaizerp20)
 
